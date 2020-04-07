@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/WSite_BVStore.git/static/css/main.f3d693f2.chunk.css",
-    "main.js": "/WSite_BVStore.git/static/js/main.6aa1b6ac.chunk.js",
-    "main.js.map": "/WSite_BVStore.git/static/js/main.6aa1b6ac.chunk.js.map",
-    "runtime-main.js": "/WSite_BVStore.git/static/js/runtime-main.da8bc8b9.js",
-    "runtime-main.js.map": "/WSite_BVStore.git/static/js/runtime-main.da8bc8b9.js.map",
-    "static/js/2.521d8a16.chunk.js": "/WSite_BVStore.git/static/js/2.521d8a16.chunk.js",
-    "static/js/2.521d8a16.chunk.js.map": "/WSite_BVStore.git/static/js/2.521d8a16.chunk.js.map",
-    "index.html": "/WSite_BVStore.git/index.html",
-    "precache-manifest.b7d6d9abc5c597269801032182599d6b.js": "/WSite_BVStore.git/precache-manifest.b7d6d9abc5c597269801032182599d6b.js",
-    "service-worker.js": "/WSite_BVStore.git/service-worker.js",
-    "static/css/main.f3d693f2.chunk.css.map": "/WSite_BVStore.git/static/css/main.f3d693f2.chunk.css.map",
-    "static/js/2.521d8a16.chunk.js.LICENSE.txt": "/WSite_BVStore.git/static/js/2.521d8a16.chunk.js.LICENSE.txt",
-    "static/media/Logo.png": "/WSite_BVStore.git/static/media/Logo.d5d0a338.png",
-    "static/media/about_2.jpg": "/WSite_BVStore.git/static/media/about_2.076a92be.jpg",
-    "static/media/about_3.jpg": "/WSite_BVStore.git/static/media/about_3.acb12c24.jpg",
-    "static/media/productLine_1.png": "/WSite_BVStore.git/static/media/productLine_1.a9ecd52a.png"
+    "main.css": "/WSite_BVStore/static/css/main.f3d693f2.chunk.css",
+    "main.js": "/WSite_BVStore/static/js/main.15d7dc18.chunk.js",
+    "main.js.map": "/WSite_BVStore/static/js/main.15d7dc18.chunk.js.map",
+    "runtime-main.js": "/WSite_BVStore/static/js/runtime-main.a23bff01.js",
+    "runtime-main.js.map": "/WSite_BVStore/static/js/runtime-main.a23bff01.js.map",
+    "static/js/2.521d8a16.chunk.js": "/WSite_BVStore/static/js/2.521d8a16.chunk.js",
+    "static/js/2.521d8a16.chunk.js.map": "/WSite_BVStore/static/js/2.521d8a16.chunk.js.map",
+    "index.html": "/WSite_BVStore/index.html",
+    "precache-manifest.e58b4b79ab8678fd2ccc36e5644ef613.js": "/WSite_BVStore/precache-manifest.e58b4b79ab8678fd2ccc36e5644ef613.js",
+    "service-worker.js": "/WSite_BVStore/service-worker.js",
+    "static/css/main.f3d693f2.chunk.css.map": "/WSite_BVStore/static/css/main.f3d693f2.chunk.css.map",
+    "static/js/2.521d8a16.chunk.js.LICENSE.txt": "/WSite_BVStore/static/js/2.521d8a16.chunk.js.LICENSE.txt",
+    "static/media/Logo.png": "/WSite_BVStore/static/media/Logo.d5d0a338.png",
+    "static/media/about_2.jpg": "/WSite_BVStore/static/media/about_2.076a92be.jpg",
+    "static/media/about_3.jpg": "/WSite_BVStore/static/media/about_3.acb12c24.jpg",
+    "static/media/productLine_1.png": "/WSite_BVStore/static/media/productLine_1.a9ecd52a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.da8bc8b9.js",
+    "static/js/runtime-main.a23bff01.js",
     "static/js/2.521d8a16.chunk.js",
     "static/css/main.f3d693f2.chunk.css",
-    "static/js/main.6aa1b6ac.chunk.js"
+    "static/js/main.15d7dc18.chunk.js"
   ]
 }
