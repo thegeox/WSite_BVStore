@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/WSite_BVStore/static/css/main.651c83f6.chunk.css",
-    "main.js": "/WSite_BVStore/static/js/main.76a04082.chunk.js",
-    "main.js.map": "/WSite_BVStore/static/js/main.76a04082.chunk.js.map",
+    "main.js": "/WSite_BVStore/static/js/main.30f53362.chunk.js",
+    "main.js.map": "/WSite_BVStore/static/js/main.30f53362.chunk.js.map",
     "runtime-main.js": "/WSite_BVStore/static/js/runtime-main.a23bff01.js",
     "runtime-main.js.map": "/WSite_BVStore/static/js/runtime-main.a23bff01.js.map",
     "static/js/2.521d8a16.chunk.js": "/WSite_BVStore/static/js/2.521d8a16.chunk.js",
     "static/js/2.521d8a16.chunk.js.map": "/WSite_BVStore/static/js/2.521d8a16.chunk.js.map",
     "index.html": "/WSite_BVStore/index.html",
-    "precache-manifest.51df59b617d3f9b57738fedc5b6725ac.js": "/WSite_BVStore/precache-manifest.51df59b617d3f9b57738fedc5b6725ac.js",
+    "precache-manifest.57c83532d52e4e988c625dc1ccf48d51.js": "/WSite_BVStore/precache-manifest.57c83532d52e4e988c625dc1ccf48d51.js",
     "service-worker.js": "/WSite_BVStore/service-worker.js",
     "static/css/main.651c83f6.chunk.css.map": "/WSite_BVStore/static/css/main.651c83f6.chunk.css.map",
     "static/js/2.521d8a16.chunk.js.LICENSE.txt": "/WSite_BVStore/static/js/2.521d8a16.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.a23bff01.js",
     "static/js/2.521d8a16.chunk.js",
     "static/css/main.651c83f6.chunk.css",
-    "static/js/main.76a04082.chunk.js"
+    "static/js/main.30f53362.chunk.js"
   ]
 }
