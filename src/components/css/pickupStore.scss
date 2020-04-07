@@ -1,0 +1,37 @@
+@import "../../global";
+
+* {
+  color: $mainTextColor;
+}
+
+.cPickupStores_MainWrapper {
+  margin: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+  .mapWrapper {
+    margin: 5px;
+    border: inset 5px paleturquoise;
+  }
+
+  .locationInfoBox {
+    margin-left: 50px;
+
+    h3 {
+      color: #daa520;
+    }
+
+    a {
+      &:hover {
+        color: rgb(218, 165, 32);
+        cursor: pointer;
+      }
+    }
+  }
+}
+
+ul {
+  padding-inline-start: 0;
+  list-style: none;
+}

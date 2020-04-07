@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Clicker+Script&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Waiting+for+the+Sunrise&display=swap");
+* {
+  color: black;
+}
+
+.cPickupStores_MainWrapper {
+  margin: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.cPickupStores_MainWrapper .mapWrapper {
+  margin: 5px;
+  border: inset 5px paleturquoise;
+}
+
+.cPickupStores_MainWrapper .locationInfoBox {
+  margin-left: 50px;
+}
+
+.cPickupStores_MainWrapper .locationInfoBox h3 {
+  color: #daa520;
+}
+
+.cPickupStores_MainWrapper .locationInfoBox a:hover {
+  color: goldenrod;
+  cursor: pointer;
+}
+
+ul {
+  -webkit-padding-start: 0;
+          padding-inline-start: 0;
+  list-style: none;
+}
+/*# sourceMappingURL=pickupStore.css.map */

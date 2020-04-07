@@ -1,0 +1,40 @@
+.home_MainContainer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.cHome_Wrapper {
+  min-height: 35vmin;
+  background-color: #a390e4;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.cHome_Wrapper:hover {
+  background-color: rgba(163, 144, 228, 0.5);
+}
+
+.cHome_Img_Section {
+  margin: 10px 10px;
+  min-height: 30vmin;
+  max-height: 40vmin;
+  min-width: 80vw;
+  background-color: red;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+/*# sourceMappingURL=home.css.map */

@@ -1,0 +1,51 @@
+@import "../../global";
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.photoBox {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  margin: 20px auto;
+  padding: 0 20px;
+  max-width: 90%;
+}
+
+@media (min-width: 600px) {
+  .photoBox {
+    flex-direction: row;
+    justify-content: center;
+  }
+}
+
+.photoBox > img {
+  max-width: 300px;
+  max-height: 400px;
+  margin: 15px;
+}
+
+img ~ div {
+  max-width: 500px;
+  max-height: 300px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+p {
+  text-align: justify;
+}
+
+.title {
+  margin: 20px auto;
+  font-family: "Clicker Script", cursive;
+}
+
+.subtitle {
+  margin: 20px auto;
+}
