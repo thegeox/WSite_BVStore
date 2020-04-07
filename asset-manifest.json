@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/WSite_BVStore/static/css/main.f3d693f2.chunk.css",
+    "main.css": "/WSite_BVStore/static/css/main.651c83f6.chunk.css",
     "main.js": "/WSite_BVStore/static/js/main.76a04082.chunk.js",
     "main.js.map": "/WSite_BVStore/static/js/main.76a04082.chunk.js.map",
     "runtime-main.js": "/WSite_BVStore/static/js/runtime-main.a23bff01.js",
@@ -8,9 +8,9 @@
     "static/js/2.521d8a16.chunk.js": "/WSite_BVStore/static/js/2.521d8a16.chunk.js",
     "static/js/2.521d8a16.chunk.js.map": "/WSite_BVStore/static/js/2.521d8a16.chunk.js.map",
     "index.html": "/WSite_BVStore/index.html",
-    "precache-manifest.fdc9a095f80f639bbb33481b2547a514.js": "/WSite_BVStore/precache-manifest.fdc9a095f80f639bbb33481b2547a514.js",
+    "precache-manifest.51df59b617d3f9b57738fedc5b6725ac.js": "/WSite_BVStore/precache-manifest.51df59b617d3f9b57738fedc5b6725ac.js",
     "service-worker.js": "/WSite_BVStore/service-worker.js",
-    "static/css/main.f3d693f2.chunk.css.map": "/WSite_BVStore/static/css/main.f3d693f2.chunk.css.map",
+    "static/css/main.651c83f6.chunk.css.map": "/WSite_BVStore/static/css/main.651c83f6.chunk.css.map",
     "static/js/2.521d8a16.chunk.js.LICENSE.txt": "/WSite_BVStore/static/js/2.521d8a16.chunk.js.LICENSE.txt",
     "static/media/Logo.png": "/WSite_BVStore/static/media/Logo.d5d0a338.png",
     "static/media/about2.jpg": "/WSite_BVStore/static/media/about2.076a92be.jpg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.a23bff01.js",
     "static/js/2.521d8a16.chunk.js",
-    "static/css/main.f3d693f2.chunk.css",
+    "static/css/main.651c83f6.chunk.css",
     "static/js/main.76a04082.chunk.js"
   ]
 }
