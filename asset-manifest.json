@@ -1,26 +1,29 @@
 {
   "files": {
-    "main.css": "/WSite_BVStore/static/css/main.7eab1b56.chunk.css",
-    "main.js": "/WSite_BVStore/static/js/main.341540d0.chunk.js",
-    "main.js.map": "/WSite_BVStore/static/js/main.341540d0.chunk.js.map",
+    "main.css": "/WSite_BVStore/static/css/main.27481927.chunk.css",
+    "main.js": "/WSite_BVStore/static/js/main.dcae465d.chunk.js",
+    "main.js.map": "/WSite_BVStore/static/js/main.dcae465d.chunk.js.map",
     "runtime-main.js": "/WSite_BVStore/static/js/runtime-main.a23bff01.js",
     "runtime-main.js.map": "/WSite_BVStore/static/js/runtime-main.a23bff01.js.map",
-    "static/js/2.ec22e7ca.chunk.js": "/WSite_BVStore/static/js/2.ec22e7ca.chunk.js",
-    "static/js/2.ec22e7ca.chunk.js.map": "/WSite_BVStore/static/js/2.ec22e7ca.chunk.js.map",
+    "static/js/2.ed950e1f.chunk.js": "/WSite_BVStore/static/js/2.ed950e1f.chunk.js",
+    "static/js/2.ed950e1f.chunk.js.map": "/WSite_BVStore/static/js/2.ed950e1f.chunk.js.map",
     "index.html": "/WSite_BVStore/index.html",
-    "precache-manifest.3d8fc5a673cdd13a243b2e52b917e1a6.js": "/WSite_BVStore/precache-manifest.3d8fc5a673cdd13a243b2e52b917e1a6.js",
+    "precache-manifest.de1169bacbea4c0fbb232c0277696caa.js": "/WSite_BVStore/precache-manifest.de1169bacbea4c0fbb232c0277696caa.js",
     "service-worker.js": "/WSite_BVStore/service-worker.js",
-    "static/css/main.7eab1b56.chunk.css.map": "/WSite_BVStore/static/css/main.7eab1b56.chunk.css.map",
-    "static/js/2.ec22e7ca.chunk.js.LICENSE.txt": "/WSite_BVStore/static/js/2.ec22e7ca.chunk.js.LICENSE.txt",
-    "static/media/Logo.png": "/WSite_BVStore/static/media/Logo.d5d0a338.png",
+    "static/css/main.27481927.chunk.css.map": "/WSite_BVStore/static/css/main.27481927.chunk.css.map",
+    "static/js/2.ed950e1f.chunk.js.LICENSE.txt": "/WSite_BVStore/static/js/2.ed950e1f.chunk.js.LICENSE.txt",
     "static/media/about2.jpg": "/WSite_BVStore/static/media/about2.076a92be.jpg",
     "static/media/about3.jpg": "/WSite_BVStore/static/media/about3.acb12c24.jpg",
-    "static/media/productLine1.png": "/WSite_BVStore/static/media/productLine1.2b83fd39.png"
+    "static/media/child.png": "/WSite_BVStore/static/media/child.8a307d86.png",
+    "static/media/clothes.png": "/WSite_BVStore/static/media/clothes.43a6e3b5.png",
+    "static/media/logo.png": "/WSite_BVStore/static/media/logo.d5d0a338.png",
+    "static/media/makeup.png": "/WSite_BVStore/static/media/makeup.2b83fd39.png",
+    "static/media/women_accessories.png": "/WSite_BVStore/static/media/women_accessories.ab482ac8.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a23bff01.js",
-    "static/js/2.ec22e7ca.chunk.js",
-    "static/css/main.7eab1b56.chunk.css",
-    "static/js/main.341540d0.chunk.js"
+    "static/js/2.ed950e1f.chunk.js",
+    "static/css/main.27481927.chunk.css",
+    "static/js/main.dcae465d.chunk.js"
   ]
 }
