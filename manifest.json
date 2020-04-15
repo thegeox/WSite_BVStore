@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "B&V Store",
+  "name": "B & V Store",
   "start_url": "./home",
   "display": "standalone",
   "theme_color": "#000000",
