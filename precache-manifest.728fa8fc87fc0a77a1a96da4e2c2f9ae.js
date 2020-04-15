@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "faeaa51dfc9b33cc53a6789352c86e94",
+    "revision": "e15f7b22b3da21c14eaac7eaafe57d3d",
     "url": "/WSite_BVStore/index.html"
   },
   {
-    "revision": "31739da8ed7c3c2f56be",
-    "url": "/WSite_BVStore/static/css/main.27481927.chunk.css"
+    "revision": "1c563dbac4647441609c",
+    "url": "/WSite_BVStore/static/css/main.722f7b98.chunk.css"
   },
   {
-    "revision": "c197e59037dee5231d58",
-    "url": "/WSite_BVStore/static/js/2.ed950e1f.chunk.js"
+    "revision": "be79b48567ede4ac2c91",
+    "url": "/WSite_BVStore/static/js/2.b9fa7637.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/WSite_BVStore/static/js/2.ed950e1f.chunk.js.LICENSE.txt"
+    "url": "/WSite_BVStore/static/js/2.b9fa7637.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "31739da8ed7c3c2f56be",
-    "url": "/WSite_BVStore/static/js/main.dcae465d.chunk.js"
+    "revision": "1c563dbac4647441609c",
+    "url": "/WSite_BVStore/static/js/main.55b8c647.chunk.js"
   },
   {
     "revision": "7a163dc9e4e13f0430c6",
